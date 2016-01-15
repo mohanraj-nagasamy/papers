@@ -10,4 +10,7 @@
 
 # Mooc
 * https://www.edx.org/
-* 
+
+
+# Conference
+* [scala-exchange 2015] (https://skillsmatter.com/conferences/6862-scala-exchange-2015)
