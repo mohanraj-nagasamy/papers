@@ -17,3 +17,7 @@
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
+
+# Devops
+* [devops-best-practices-canary-deployments](http://www.ca.com/us/collateral/recorded-webcasts/na/devops-best-practices-canary-deployments.aspx)
+* http://featureflags.io/
