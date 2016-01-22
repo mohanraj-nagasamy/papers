@@ -40,6 +40,7 @@
 ## Java
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
   * [Java design patterns](http://java-design-patterns.com/patterns/)
+  * [http://codingbat.com/] (http://codingbat.com/)
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
