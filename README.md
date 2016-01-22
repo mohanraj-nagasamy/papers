@@ -30,4 +30,4 @@
 
 # Exercises
 ## Scala
-  * [scala-exercises] http://scala-exercises.47deg.com/
+  * [scala-exercises] (http://scala-exercises.47deg.com/)
