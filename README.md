@@ -47,3 +47,5 @@
 ## Go
   * [Ultimate Go Training Class Material] (https://github.com/ardanlabs/gotraining)
 
+## Security
+ * [How to use java keytool] (https://pubs.vmware.com/continuent/tungsten-replicator-2.1/deployment-ssl-stores.html)
