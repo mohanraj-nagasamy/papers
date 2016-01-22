@@ -42,3 +42,7 @@
 
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
+
+## Go
+  * [Ultimate Go Training Class Material] (https://github.com/ardanlabs/gotraining)
+
