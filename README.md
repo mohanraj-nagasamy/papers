@@ -29,7 +29,9 @@
 * [Java Weekly by www.baeldung](http://www.baeldung.com)
 
 # Exercises
+
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
+
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
