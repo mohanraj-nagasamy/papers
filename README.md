@@ -7,6 +7,9 @@
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
 
+# Scaling
+* [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
 * [Transactional Locks in Postgres] (https://gist.github.com/mohanraj-nagasamy/77473876fcafd0979410)
