@@ -23,3 +23,6 @@
 # Devops
 * [devops-best-practices-canary-deployments](http://www.ca.com/us/collateral/recorded-webcasts/na/devops-best-practices-canary-deployments.aspx)
 * http://featureflags.io/
+
+# Weekly
+* [Java Weekly by www.baeldung](http://www.baeldung.com)
