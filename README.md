@@ -10,6 +10,9 @@
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 
+# Cloud Design Patterns
+* [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
 * [Transactional Locks in Postgres] (https://gist.github.com/mohanraj-nagasamy/77473876fcafd0979410)
