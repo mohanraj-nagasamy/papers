@@ -5,6 +5,7 @@
 
 # Performance
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
+* [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
 
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
