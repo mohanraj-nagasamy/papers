@@ -23,6 +23,7 @@
 
 # Conference
 * [scala-exchange 2015] (https://skillsmatter.com/conferences/6862-scala-exchange-2015)
+* [dotscale] (http://www.dotscale.io/)
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
