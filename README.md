@@ -9,6 +9,7 @@
 
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+* [Designing Data-Intensive Applications] (http://martin.kleppmann.com/2015/12/28/year-2015-review.html)
 
 # Cloud Design Patterns
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
