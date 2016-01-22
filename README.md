@@ -37,6 +37,8 @@
 * [Java Weekly by www.baeldung](http://www.baeldung.com)
 
 # Exercises
+## Java
+  * [Java design patterns](http://java-design-patterns.com/patterns/)
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
