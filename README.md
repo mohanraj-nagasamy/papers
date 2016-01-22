@@ -38,6 +38,7 @@
 
 # Exercises
 ## Java
+  * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
   * [Java design patterns](http://java-design-patterns.com/patterns/)
 
 ## Scala
