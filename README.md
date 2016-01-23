@@ -29,6 +29,7 @@
 * [dotscale] (http://www.thedotpost.com/conference/dotscale-2015)
 * [gophercon](https://www.gophercon.com/)
 * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
+* [qconsf2015](http://www.infoq.com/conferences/qconsf2015)
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
