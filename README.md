@@ -22,6 +22,7 @@
 * http://www.javaperformancetuning.com/
 * [Brendan D. Gregg](http://www.brendangregg.com/FrequencyTrails/modes.html)
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
+* [JAVA PROFILING FROM THE GROUND UP!](http://virtualjug.com/java-profiling-from-the-ground-up/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
 * [Performance Testing Crash Course] (http://www.infoq.com/presentations/performance-testing-siege-bees)
 * [How to a measure the Performance of a Server?](http://srinathsview.blogspot.com/2012/05/how-to-measure-performance-of-server.html)
@@ -67,6 +68,7 @@
   * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
   * [GoogleTechTalks](https://www.youtube.com/watch?v=rKnDgT73v8s)
+  * http://virtualjug.com/
   * 
 
 # Books
