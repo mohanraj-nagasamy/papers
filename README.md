@@ -1,6 +1,7 @@
 # Podcast
 * [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
 * http://build-podcast.com/
+* http://www.se-radio.net/
 
 # Papers
 
@@ -30,6 +31,7 @@
 # Mooc
 * https://www.edx.org/
 * https://courses.edx.org/dashboard/
+* https://www.coursera.org/
 
 
 # Conference
@@ -79,3 +81,6 @@
 # Misc
  * [40 Key Computer Science Concepts Explained In Layman’s Terms] (http://carlcheo.com/compsci)
  
+# Datascience
+* [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science)
+* 
