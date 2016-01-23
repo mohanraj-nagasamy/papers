@@ -12,6 +12,7 @@
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
 * [Performance Testing Crash Course] (http://www.infoq.com/presentations/performance-testing-siege-bees)
+* [How to a measure the Performance of a Server?](http://srinathsview.blogspot.com/2012/05/how-to-measure-performance-of-server.html)
 
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
