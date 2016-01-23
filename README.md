@@ -23,6 +23,7 @@
 
 
 # Conference
+* [JavaOne](https://www.oracle.com/javaone/index.html)
 * [scala-exchange 2015] (https://skillsmatter.com/conferences/6862-scala-exchange-2015)
 * [dotscale] (http://www.thedotpost.com/conference/dotscale-2015)
 * [gophercon](https://www.gophercon.com/)
