@@ -27,6 +27,7 @@
 * [How to a measure the Performance of a Server?](http://srinathsview.blogspot.com/2012/05/how-to-measure-performance-of-server.html)
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 * [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
+* [Performance Best Practices at a Glance - Microsoft](https://msdn.microsoft.com/en-us/library/ff647215.aspx)
 
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
@@ -37,7 +38,7 @@
 * [Java 8 Concurrency Tutorial: Synchronization and Locks] (http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
 
 # Cloud Design Patterns
-* [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+* [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications - Microsoft] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
