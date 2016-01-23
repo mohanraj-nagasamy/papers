@@ -77,6 +77,7 @@
 
 ## Security
  * [How to use java keytool] (https://pubs.vmware.com/continuent/tungsten-replicator-2.1/deployment-ssl-stores.html)
+
 ## SQL
   * [SQL, the Underestimated Big Data Technology - Lukas Eder](https://vimeo.com/105758312)
 
