@@ -64,6 +64,8 @@
   * [NewCircle](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
   * https://www.parleys.com/
   * [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
+  * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
+  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
@@ -87,8 +89,7 @@
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
-  * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
-  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+  * [Simple Scala recursion examples](http://alvinalexander.com/scala/scala-recursion-examples-recursive-programming)
 
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
