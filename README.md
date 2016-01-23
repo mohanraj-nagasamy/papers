@@ -95,6 +95,7 @@
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
   * [Simple Scala recursion examples](http://alvinalexander.com/scala/scala-recursion-examples-recursive-programming)
+  * [Scala Talk at FOSDEM 2009 - Martin Odersky](http://www.slideshare.net/Odersky/fosdem-2009-1013261/27)
 
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
