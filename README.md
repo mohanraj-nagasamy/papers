@@ -79,6 +79,7 @@
 * http://featureflags.io/
 * [Service Discovery in a Microservices Architecture](https://dzone.com/articles/service-discovery-in-a-microservices-architecture)
 * [Building Fault-Tolerant Microservices - Skills Matter](https://skillsmatter.com/skillscasts/5810-building-fault-tolerant-microservices)
+* http://microservices.io/
 
 # Weekly
 * [Java Weekly by www.baeldung](http://www.baeldung.com)
