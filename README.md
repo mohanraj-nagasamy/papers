@@ -1,5 +1,6 @@
-# Cast
+# Podcast
 * [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
+* http://build-podcast.com/
 
 # Papers
 
