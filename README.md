@@ -12,6 +12,9 @@
 * [Designing Data-Intensive Applications] (http://martin.kleppmann.com/2015/12/28/year-2015-review.html)
 * [Please stop calling databases CP or AP] (https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
+# Concurrency
+* [Java 8 Concurrency Tutorial: Synchronization and Locks] (http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
+
 # Cloud Design Patterns
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
