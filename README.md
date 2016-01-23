@@ -83,4 +83,5 @@
  
 # Datascience
 * [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science)
+* [Software engineer's guide to getting started with data science] (http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * 
