@@ -66,6 +66,8 @@
   * [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
   * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+  * [GoogleTechTalks](https://www.youtube.com/watch?v=rKnDgT73v8s)
+  * 
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
