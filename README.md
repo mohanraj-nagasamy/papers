@@ -62,6 +62,7 @@
   * http://www.nodejstutorial.co.in/search/label/Java
   * [NewCircle](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
   * https://www.parleys.com/
+  * [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
