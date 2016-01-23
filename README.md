@@ -19,6 +19,7 @@
 * [Falsehoods Programmers Believe About Names] (http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names)
 
 # Performance
+* http://www.javaperformancetuning.com/
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
 * [Performance Testing Crash Course] (http://www.infoq.com/presentations/performance-testing-siege-bees)
