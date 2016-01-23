@@ -59,3 +59,7 @@
 
 ## Security
  * [How to use java keytool] (https://pubs.vmware.com/continuent/tungsten-replicator-2.1/deployment-ssl-stores.html)
+
+# Misc
+ * [40 Key Computer Science Concepts Explained In Layman’s Terms] (http://carlcheo.com/compsci)
+ 
