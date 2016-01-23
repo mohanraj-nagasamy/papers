@@ -1,3 +1,6 @@
+# Cast
+* [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
+
 # Papers
 
 * [Fallacies of Distributed Computing Explained] (http://www.rgoarchitects.com/Files/fallacies.pdf)
