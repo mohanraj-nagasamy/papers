@@ -86,6 +86,8 @@
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
+  * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
+  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
 
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
