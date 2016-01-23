@@ -50,7 +50,10 @@
 
 # Devops
 * [devops-best-practices-canary-deployments](http://www.ca.com/us/collateral/recorded-webcasts/na/devops-best-practices-canary-deployments.aspx)
+
+# Microservice
 * http://featureflags.io/
+* [Service Discovery in a Microservices Architecture](https://dzone.com/articles/service-discovery-in-a-microservices-architecture)
 
 # Weekly
 * [Java Weekly by www.baeldung](http://www.baeldung.com)
