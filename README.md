@@ -2,6 +2,16 @@
 * [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
 * http://build-podcast.com/
 * http://www.se-radio.net/
+* 
+
+# Screencast
+* [Skillscasts](https://skillsmatter.com/skillscasts)
+* [Codeschool - screencast](https://www.codeschool.com/screencasts)
+* [Go rails](https://gorails.com)
+* [Rails cast](http://railscasts.com/)
+* [Devcast](https://www.devcasts.io)
+* http://devfreecasts.org/
+* 
 
 # Papers
 
