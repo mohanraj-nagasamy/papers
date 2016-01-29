@@ -95,6 +95,7 @@
 
 # Weekly
 * [Java Weekly by www.baeldung](http://www.baeldung.com)
+* http://www.thoughts-on-java.org/java-weekly/
 
 # Exercises
 ## Java
