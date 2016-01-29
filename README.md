@@ -32,6 +32,9 @@
 * [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
 * [Performance Best Practices at a Glance - Microsoft](https://msdn.microsoft.com/en-us/library/ff647215.aspx)
 
+# Profile
+* [All The Small Things - JVM Profiling Lessons From The Trenches](http://blog.couchbase.com/all-the-small-things---jvm-profiling-lessons-from-the-trenches)
+
 # Performance gotchas
 * [How we accidentally doubled our JDBC traffic with Hibernate](https://plumbr.eu/blog/io/how-we-accidentally-doubled-our-jdbc-traffic-with-hibernate)
 
