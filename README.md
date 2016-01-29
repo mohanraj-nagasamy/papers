@@ -32,6 +32,9 @@
 * [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
 * [Performance Best Practices at a Glance - Microsoft](https://msdn.microsoft.com/en-us/library/ff647215.aspx)
 
+# Performance gotchas
+* [How we accidentally doubled our JDBC traffic with Hibernate](https://plumbr.eu/blog/io/how-we-accidentally-doubled-our-jdbc-traffic-with-hibernate)
+
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 * [Designing Data-Intensive Applications] (http://martin.kleppmann.com/2015/12/28/year-2015-review.html)
