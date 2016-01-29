@@ -12,7 +12,7 @@
 * [Rails cast](http://railscasts.com/)
 * [Devcast](https://www.devcasts.io)
 * http://devfreecasts.org/
-* 
+* http://www.purelyfunctional.tv/
 
 # Papers
 
