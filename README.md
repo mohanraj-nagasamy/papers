@@ -119,3 +119,7 @@
 * [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science)
 * [Software engineer's guide to getting started with data science] (http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * [Deep Learning - Taking machine learning to the next level - Free course by Google](https://www.udacity.com/course/deep-learning--ud730)
+
+# Data Wharehouse
+* [This is the first part in a 101 series covering Big Data concepts, terminology and technology](http://panoply.io/data-warehouse-what/)
+* 
