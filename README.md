@@ -2,6 +2,7 @@
 * [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
 * http://build-podcast.com/
 * http://www.se-radio.net/
+* http://www.lispcast.com/
 * 
 
 # Screencast
