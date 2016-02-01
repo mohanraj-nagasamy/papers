@@ -109,6 +109,9 @@
   * [Simple Scala recursion examples](http://alvinalexander.com/scala/scala-recursion-examples-recursive-programming)
   * [Scala Talk at FOSDEM 2009 - Martin Odersky](http://www.slideshare.net/Odersky/fosdem-2009-1013261/27)
 
+### Scala gotchas
+  * [Why does Option.apply throw NPEs for boxed primitives?](http://stackoverflow.com/questions/30616138/why-does-option-apply-throw-npes-for-boxed-primitives)
+
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
 
