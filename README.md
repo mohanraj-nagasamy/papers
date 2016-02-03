@@ -99,6 +99,10 @@
 * http://www.thoughts-on-java.org/java-weekly/
 
 # Exercises
+
+## Kata
+  * http://codingdojo.org/cgi-bin/index.pl?KataCatalogue/
+  
 ## Java
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
   * [Java design patterns](http://java-design-patterns.com/patterns/)
