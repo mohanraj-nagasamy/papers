@@ -103,6 +103,7 @@
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
   * [Java design patterns](http://java-design-patterns.com/patterns/)
   * [http://codingbat.com/] (http://codingbat.com/)
+  * [Extending JDK 8 Collections](https://github.com/aol/cyclops/tree/master/cyclops-core)
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
