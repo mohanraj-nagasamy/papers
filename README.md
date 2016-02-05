@@ -38,6 +38,7 @@
 # Performance gotchas
 * [How we accidentally doubled our JDBC traffic with Hibernate](https://plumbr.eu/blog/io/how-we-accidentally-doubled-our-jdbc-traffic-with-hibernate)
 * [Hibernate Logging Guide – Use the right config for development and production](http://www.thoughts-on-java.org/hibernate-logging-guide/)
+* [JDK-6382788 : URLConnection is silently retrying POST request](https://dzone.com/articles/pola-and-httpurlconnection)
 
 # Scaling
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
