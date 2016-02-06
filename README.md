@@ -141,3 +141,7 @@
 # Data Wharehouse
 * [This is the first part in a 101 series covering Big Data concepts, terminology and technology](http://panoply.io/data-warehouse-what/)
 * 
+
+# Tools
+* [List of resources on monitoring and scalability](http://www.hello-startup.net/resources/)
+* 
