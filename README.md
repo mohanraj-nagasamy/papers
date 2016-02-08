@@ -116,6 +116,11 @@
   * [Simple Scala recursion examples](http://alvinalexander.com/scala/scala-recursion-examples-recursive-programming)
   * [Scala Talk at FOSDEM 2009 - Martin Odersky](http://www.slideshare.net/Odersky/fosdem-2009-1013261/27)
 
+## Akka
+  * [Intro to Akka persistence with Patrik Nordwall](https://www.youtube.com/watch?v=r5lecCBazvE)
+  * [Akka - Message Delivery Reliability](http://doc.akka.io/docs/akka/2.4.1/general/message-delivery-reliability.html)
+  * 
+  
 ### Scala gotchas
   * [Why does Option.apply throw NPEs for boxed primitives?](http://stackoverflow.com/questions/30616138/why-does-option-apply-throw-npes-for-boxed-primitives)
 
