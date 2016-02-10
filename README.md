@@ -22,6 +22,7 @@
 
 # Performance
 * http://www.javaperformancetuning.com/
+* https://github.com/peter-lawrey/Performance-Examples/
 * [Brendan D. Gregg](http://www.brendangregg.com/FrequencyTrails/modes.html)
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [JAVA PROFILING FROM THE GROUND UP!](http://virtualjug.com/java-profiling-from-the-ground-up/)
