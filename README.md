@@ -156,4 +156,4 @@
  * JMeter
  * Gatling
  * Modern load-testing (HTTP, WebSockets and more) ⚡️ Node.js-based https://artillery.io
- * 
+ * Massive scale load tests with AWS Lambda and Artillery - https://github.com/hassy/artillery-dino
