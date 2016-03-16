@@ -20,6 +20,10 @@
 * [Falsehoods Programmers Believe About Names] (http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names)
 * [Base: An Acid Alternative] (http://queue.acm.org/detail.cfm?id=1394128)
 
+# Distributed Computing
+* [There is No Now - Problems with simultaneity in distributed systems] (http://queue.acm.org/detail.cfm?id=2745385)
+* [When is "ACID" ACID? Rarely.] (http://www.bailis.org/blog/when-is-acid-acid-rarely/)
+
 # Performance
 * http://www.javaperformancetuning.com/
 * https://github.com/peter-lawrey/Performance-Examples/
