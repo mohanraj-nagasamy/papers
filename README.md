@@ -55,6 +55,7 @@
 * [Java 8 Concurrency Tutorial: Synchronization and Locks] (http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
 * [Programming Paradigms for Concurrency](http://cs.nyu.edu/wies/teaching/ppc-14/)
 * [Principles of Reactive Programming] (https://www.coursera.org/course/reactive)
+* https://www.toptal.com/blog/tags/concurrency/
 
 # Cloud Design Patterns
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications - Microsoft] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
