@@ -56,6 +56,7 @@
 * [Programming Paradigms for Concurrency](http://cs.nyu.edu/wies/teaching/ppc-14/)
 * [Principles of Reactive Programming] (https://www.coursera.org/course/reactive)
 * https://www.toptal.com/blog/tags/concurrency/
+* [Visualizing Concurrency in Go] (https://divan.github.io/posts/go_concurrency_visualize/)
 
 # Algorithms and Data structures
 * [Beyond Lists] (http://www.infoq.com/presentations/data-structure-lists)
