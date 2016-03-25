@@ -57,6 +57,13 @@
 * [Principles of Reactive Programming] (https://www.coursera.org/course/reactive)
 * https://www.toptal.com/blog/tags/concurrency/
 
+# Algorithms and Data structures
+* [Beyond Lists] (http://www.infoq.com/presentations/data-structure-lists)
+
+# Compilers
+* [Write Your Own Compiler in 24 Hours] (http://www.infoq.com/presentations/compiler-how-to)
+
+
 # Cloud Design Patterns
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications - Microsoft] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * http://www.cloudcomputingpatterns.org/
