@@ -57,6 +57,8 @@
 * [Principles of Reactive Programming] (https://www.coursera.org/course/reactive)
 * https://www.toptal.com/blog/tags/concurrency/
 * [Visualizing Concurrency in Go] (https://divan.github.io/posts/go_concurrency_visualize/)
+## Concurrency Problems
+* https://en.wikipedia.org/wiki/Sleeping_barber_problem/
 
 # Algorithms and Data structures
 * [Beyond Lists] (http://www.infoq.com/presentations/data-structure-lists)
