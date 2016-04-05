@@ -23,6 +23,9 @@
 # Distributed Computing
 * [There is No Now - Problems with simultaneity in distributed systems] (http://queue.acm.org/detail.cfm?id=2745385)
 * [When is "ACID" ACID? Rarely.] (http://www.bailis.org/blog/when-is-acid-acid-rarely/)
+* [Distributed systems] (http://book.mixu.net/distsys/index.html)
+* [An Introduction to Distributed Systems] (http://webdam.inria.fr/Jorge/html/wdmch15.html)
+* 
 
 # Performance
 * http://www.javaperformancetuning.com/
