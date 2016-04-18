@@ -61,6 +61,8 @@
 * https://www.toptal.com/blog/tags/concurrency/
 * [Visualizing Concurrency in Go] (https://divan.github.io/posts/go_concurrency_visualize/)
 * [Concurrency in channel 9] (https://channel9.msdn.com/Search?term=Concurrent#ch9Search&pubDate=3years&pageSize=15&lang-en=en)
+* [Synchronization primitives in the Linux kernel. Part 1] (https://0xax.gitbooks.io/linux-insides/content/SyncPrim/sync-1.html)
+
 
 ## Concurrency Problems
 * https://en.wikipedia.org/wiki/Sleeping_barber_problem/
