@@ -60,6 +60,7 @@
 * [Principles of Reactive Programming] (https://www.coursera.org/course/reactive)
 * https://www.toptal.com/blog/tags/concurrency/
 * [Visualizing Concurrency in Go] (https://divan.github.io/posts/go_concurrency_visualize/)
+* [Concurrency in channel 9] (https://channel9.msdn.com/Search?term=Concurrent#ch9Search&pubDate=3years&pageSize=15&lang-en=en)
 
 ## Concurrency Problems
 * https://en.wikipedia.org/wiki/Sleeping_barber_problem/
