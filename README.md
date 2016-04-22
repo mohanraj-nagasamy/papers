@@ -69,6 +69,7 @@
 
 # Algorithms and Data structures
 * [Beyond Lists] (http://www.infoq.com/presentations/data-structure-lists)
+* [Skiena's Algorithms Lectures] (http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 
 # Compilers
 * [Write Your Own Compiler in 24 Hours] (http://www.infoq.com/presentations/compiler-how-to)
