@@ -42,6 +42,8 @@
 * [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
 * [Performance Best Practices at a Glance - Microsoft](https://msdn.microsoft.com/en-us/library/ff647215.aspx)
 * https://www.azul.com/resources/presentations/
+* [Understanding HotSpot JVM Performance with JITWatch](http://www.infoq.com/presentations/jitwatch)
+* 
 
 # Profile
 * [All The Small Things - JVM Profiling Lessons From The Trenches](http://blog.couchbase.com/all-the-small-things---jvm-profiling-lessons-from-the-trenches)
