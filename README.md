@@ -166,6 +166,7 @@
 
 ## SQL
   * [SQL, the Underestimated Big Data Technology - Lukas Eder](https://vimeo.com/105758312)
+  * [Understanding Window Functions] (http://tapoueh.org/blog/2013/08/20-Window-Functions)
 
 # Misc
  * [40 Key Computer Science Concepts Explained In Layman’s Terms] (http://carlcheo.com/compsci)
