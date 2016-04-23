@@ -25,7 +25,9 @@
 * [When is "ACID" ACID? Rarely.] (http://www.bailis.org/blog/when-is-acid-acid-rarely/)
 * [Distributed systems] (http://book.mixu.net/distsys/index.html)
 * [An Introduction to Distributed Systems] (http://webdam.inria.fr/Jorge/html/wdmch15.html)
-* 
+* [Practical Demystification of CRDT] (https://www.youtube.com/watch?v=PQzNW8uQ_Y4)
+* [CRDTs for fun and eventual profit](http://underscore.io/blog/posts/2013/12/20/crdts-for-fun-and-eventual-profit.html)
+* https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html
 
 # Performance
 * http://www.javaperformancetuning.com/
