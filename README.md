@@ -83,6 +83,7 @@
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
 * [Transactional Locks in Postgres] (https://gist.github.com/mohanraj-nagasamy/77473876fcafd0979410)
+* [The Transaction Concept by Jim Gray 1981] (http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf)
 
 # Mooc
 * https://www.edx.org/
