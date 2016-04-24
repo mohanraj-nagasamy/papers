@@ -173,6 +173,7 @@
   * [SQL, the Underestimated Big Data Technology - Lukas Eder](https://vimeo.com/105758312)
   * [Understanding Window Functions] (http://tapoueh.org/blog/2013/08/20-Window-Functions)
   * https://robots.thoughtbot.com/postgres-window-functions
+  * [RANK, DENSE_RANK, FIRST and LAST Analytic Functions](https://oracle-base.com/articles/misc/rank-dense-rank-first-last-analytic-functions)
 
 # Misc
  * [40 Key Computer Science Concepts Explained In Layman’s Terms] (http://carlcheo.com/compsci)
