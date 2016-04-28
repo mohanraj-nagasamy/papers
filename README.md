@@ -29,6 +29,7 @@
 * [Practical Demystification of CRDT] (https://www.youtube.com/watch?v=PQzNW8uQ_Y4)
 * [CRDTs for fun and eventual profit](http://underscore.io/blog/posts/2013/12/20/crdts-for-fun-and-eventual-profit.html)
 * https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html
+* http://www.thedotpost.com/backend
 
 # Cluster
 * [On The Building Of A Postgres Cluster by Srihari Sriraman](https://hasgeek.tv/rootconf/2016/1207-of-the-building-of-a-postgres-cluster)
