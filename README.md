@@ -203,4 +203,4 @@
 
 ### Kids games
 * https://medium.com/@Mybridge/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.bi8ph234l
-* 
+* https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.rucojigwg
