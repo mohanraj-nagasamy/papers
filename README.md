@@ -142,6 +142,8 @@
 
 ## Kata
   * http://codingdojo.org/cgi-bin/index.pl?KataCatalogue/
+  * https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.rucojigwg
+  * cyber-dojo.org
   
 ## Java
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
@@ -203,4 +205,4 @@
 
 ### Kids games
 * https://medium.com/@Mybridge/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.bi8ph234l
-* https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.rucojigwg
+* 
