@@ -208,3 +208,19 @@
 ### Kids games
 * https://medium.com/@Mybridge/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.bi8ph234l
 * 
+
+### Kid Programming resources
+
+* [Code Academy] (http://www.codecademy.com/)
+* [Light Bot & Light Bot 2] ( http://lightbot.com/)
+* [Code Monkey] (http://www.playcodemonkey.com)
+* [Google Blockly] (https://blockly-games.appspot.com/)
+* [Scratch] (http://scratch.mit.edu/)
+* [Code Combat] (http://codecombat.com)
+* [Pluralsight] (https://www.pluralsight.com/kids)
+* [App Inventor] (http://appinventor.mit.edu/explore/front.html)
+* [Teaching Kids Programming] (http://teachingkidsprogramming.org/)
+* http://code.org/learn
+* [Bukkit for Beginners(Minecraft/Java Mod tutorials on Youtube)] (https://www.youtube.com/watch?v=CCsMPuSDdVc&index=2&list=PLwXzeQT80wzEwvKrlrOi3xfr5RpuPtsh-)
+* [Koding University] http://learn.koding.com/
+* [Khan Academy] https://www.khanacademy.org/computing/computer-programming
