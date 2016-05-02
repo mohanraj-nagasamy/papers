@@ -72,6 +72,8 @@
 * [Concurrency in channel 9] (https://channel9.msdn.com/Search?term=Concurrent#ch9Search&pubDate=3years&pageSize=15&lang-en=en)
 * [Synchronization primitives in the Linux kernel. Part 1] (https://0xax.gitbooks.io/linux-insides/content/SyncPrim/sync-1.html)
 * [Java Concurrency and Non-blocking IO Lecture by Dr Heinz Kabutz] (https://vimeo.com/107075372)
+* (Taming Shared Mutability with Software Transactional Memory) (https://www.youtube.com/watch?v=F7v077SDwcE)
+* [Exploring alternative Concurrency Paradigms on the JVM] (https://vimeo.com/20059154)
 
 
 ## Concurrency Problems
