@@ -222,5 +222,5 @@
 * [Teaching Kids Programming] (http://teachingkidsprogramming.org/)
 * http://code.org/learn
 * [Bukkit for Beginners(Minecraft/Java Mod tutorials on Youtube)] (https://www.youtube.com/watch?v=CCsMPuSDdVc&index=2&list=PLwXzeQT80wzEwvKrlrOi3xfr5RpuPtsh-)
-* [Koding University] http://learn.koding.com/
-* [Khan Academy] https://www.khanacademy.org/computing/computer-programming
+* [Koding University] (http://learn.koding.com/)
+* [Khan Academy] (https://www.khanacademy.org/computing/computer-programming)
