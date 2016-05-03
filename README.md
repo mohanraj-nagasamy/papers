@@ -48,6 +48,7 @@
 * [Performance Best Practices at a Glance - Microsoft](https://msdn.microsoft.com/en-us/library/ff647215.aspx)
 * https://www.azul.com/resources/presentations/
 * [Understanding HotSpot JVM Performance with JITWatch](http://www.infoq.com/presentations/jitwatch)
+* [The dark Art of Performance Tuning, from Newts to Newton](https://vimeo.com/151759061)
 * 
 
 # Profile
