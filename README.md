@@ -186,6 +186,9 @@
   * https://robots.thoughtbot.com/postgres-window-functions
   * [RANK, DENSE_RANK, FIRST and LAST Analytic Functions](https://oracle-base.com/articles/misc/rank-dense-rank-first-last-analytic-functions)
 
+## Assembly programming
+ * [A fundamental introduction to x86 assembly programming] (https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+
 # Misc
  * [40 Key Computer Science Concepts Explained In Layman’s Terms] (http://carlcheo.com/compsci)
  
