@@ -185,6 +185,7 @@
   * [Understanding Window Functions] (http://tapoueh.org/blog/2013/08/20-Window-Functions)
   * https://robots.thoughtbot.com/postgres-window-functions
   * [RANK, DENSE_RANK, FIRST and LAST Analytic Functions](https://oracle-base.com/articles/misc/rank-dense-rank-first-last-analytic-functions)
+  * [Application turning - Sakila schema] (https://recurrentnull.files.wordpress.com/2016/02/tunetheapp_final_nopic.pdf)
 
 ## Assembly programming
  * [A fundamental introduction to x86 assembly programming] (https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
