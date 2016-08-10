@@ -76,7 +76,7 @@
 * [Java Concurrency and Non-blocking IO Lecture by Dr Heinz Kabutz] (https://vimeo.com/107075372)
 * (Taming Shared Mutability with Software Transactional Memory) (https://www.youtube.com/watch?v=F7v077SDwcE)
 * [Exploring alternative Concurrency Paradigms on the JVM] (https://vimeo.com/20059154)
-
+* http://www.nurkiewicz.com/2014/12/asynchronous-timeouts-with.html
 
 ## Concurrency Problems
 * https://en.wikipedia.org/wiki/Sleeping_barber_problem/
