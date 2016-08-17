@@ -103,7 +103,7 @@
 * [Stream processing, Event sourcing, Reactive, CEP ... and making sense of it all] (http://www.confluent.io/blog/making-sense-of-stream-processing/)
 * [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 [Udi Dahan - Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
-[Jay Kreps - The Log: What every software engineer should know about real-time data's unifying
+* [Jay Kreps - The Log: What every software engineer should know about real-time data's unifying
 abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 # Mooc
