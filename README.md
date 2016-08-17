@@ -168,6 +168,7 @@
   
 ### Scala gotchas
   * [Why does Option.apply throw NPEs for boxed primitives?](http://stackoverflow.com/questions/30616138/why-does-option-apply-throw-npes-for-boxed-primitives)
+  * [Contravariance and Covariance](http://blog.originate.com/blog/2016/08/10/cheat-codes-for-contravariance-and-covariance/)
 
 ## Clojure
   * [Clojure Distilled] (http://yogthos.github.io/ClojureDistilled.html)
