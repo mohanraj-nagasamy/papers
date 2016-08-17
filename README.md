@@ -98,6 +98,11 @@
 * [Transactional Locks in Postgres] (https://gist.github.com/mohanraj-nagasamy/77473876fcafd0979410)
 * [The Transaction Concept by Jim Gray 1981] (http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf)
 
+# CQRS and Event Sourcing
+* [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+* [Stream processing, Event sourcing, Reactive, CEP ... and making sense of it all] (http://www.confluent.io/blog/making-sense-of-stream-processing/)
+* [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+
 # Mooc
 * https://www.edx.org/
 * https://courses.edx.org/dashboard/
