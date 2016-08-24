@@ -189,6 +189,10 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
  * [How I hacked Facebook] (anandpraka.sh)
  * https://portswigger.net/burp/
 
+## Database DB
+* [Graph Databases for Beginners](https://neo4j.com/blog/why-graph-data-relationships-matter/)
+*
+
 ## SQL
   * [SQL, the Underestimated Big Data Technology - Lukas Eder](https://vimeo.com/105758312)
   * [Understanding Window Functions] (http://tapoueh.org/blog/2013/08/20-Window-Functions)
