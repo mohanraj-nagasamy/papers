@@ -168,6 +168,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * [scala-exercises] (http://scala-exercises.47deg.com/)
   * [Simple Scala recursion examples](http://alvinalexander.com/scala/scala-recursion-examples-recursive-programming)
   * [Scala Talk at FOSDEM 2009 - Martin Odersky](http://www.slideshare.net/Odersky/fosdem-2009-1013261/27)
+  * [Generalized type constraints in scala](http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html)
 
 ## Akka
   * [Intro to Akka persistence with Patrik Nordwall](https://www.youtube.com/watch?v=r5lecCBazvE)
