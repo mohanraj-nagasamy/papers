@@ -185,6 +185,9 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 ## Go
   * [Ultimate Go Training Class Material] (https://github.com/ardanlabs/gotraining)
 
+## Rails & Ruby
+ * [Recurring Events in Rails](http://nithinbekal.com/posts/rails-recurring-events/)
+ * 
 ## Security
  * [How to use java keytool] (https://pubs.vmware.com/continuent/tungsten-replicator-2.1/deployment-ssl-stores.html)
  * [How I hacked Facebook] (anandpraka.sh)
