@@ -84,6 +84,7 @@
 # Algorithms and Data structures
 * [Beyond Lists] (http://www.infoq.com/presentations/data-structure-lists)
 * [Skiena's Algorithms Lectures] (http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+* [All the things you didn't know you wanted to know about data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 
 # Compilers
 * [Write Your Own Compiler in 24 Hours] (http://www.infoq.com/presentations/compiler-how-to)
