@@ -64,6 +64,8 @@
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS] (http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 * [Designing Data-Intensive Applications] (http://martin.kleppmann.com/2015/12/28/year-2015-review.html)
 * [Please stop calling databases CP or AP] (https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+* [On designing and deploying internet-scale services
+](https://blog.acolyer.org/2016/09/12/on-designing-and-deploying-internet-scale-services/)
 
 # Concurrency
 * [Java 8 Concurrency Tutorial: Synchronization and Locks] (http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
