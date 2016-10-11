@@ -172,6 +172,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * [Generalized type constraints in scala](http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html)
 
 ## Akka
+  * [Akka starter kit](http://tudorzgureanu.com/akka-starter-kit/)
   * [Intro to Akka persistence with Patrik Nordwall](https://www.youtube.com/watch?v=r5lecCBazvE)
   * [Akka - Message Delivery Reliability](http://doc.akka.io/docs/akka/2.4.1/general/message-delivery-reliability.html)
   * 
