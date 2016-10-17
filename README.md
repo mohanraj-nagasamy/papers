@@ -252,3 +252,4 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 * [Bukkit for Beginners(Minecraft/Java Mod tutorials on Youtube)] (https://www.youtube.com/watch?v=CCsMPuSDdVc&index=2&list=PLwXzeQT80wzEwvKrlrOi3xfr5RpuPtsh-)
 * [Koding University] (http://learn.koding.com/)
 * [Khan Academy] (https://www.khanacademy.org/computing/computer-programming)
+* [44 New Cool Websites and Apps to Learn Something New] (https://entrepreneurs.maqtoob.com/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139#.fvm2fovty)
