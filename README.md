@@ -178,6 +178,9 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * [Intro to Akka persistence with Patrik Nordwall](https://www.youtube.com/watch?v=r5lecCBazvE)
   * [Akka - Message Delivery Reliability](http://doc.akka.io/docs/akka/2.4.1/general/message-delivery-reliability.html)
   * 
+## Kafka
+  * [Streaming data from Oracle using Oracle GoldenGate and Kafka Connect] (https://www.rittmanmead.com/blog/2016/10/streaming-data-from-oracle-using-oracle-goldengate-and-kafka-connect/)
+  
   
 ### Scala gotchas
   * [Why does Option.apply throw NPEs for boxed primitives?](http://stackoverflow.com/questions/30616138/why-does-option-apply-throw-npes-for-boxed-primitives)
