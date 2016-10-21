@@ -20,6 +20,7 @@
 * [Falsehoods Programmers Believe About Names] (http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names)
 * [Base: An Acid Alternative] (http://queue.acm.org/detail.cfm?id=1394128)
 * [acm queue - articles](http://queue.acm.org/pastissues.cfm)
+* [The Linux Scheduler: a Decade of Wasted Cores](http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf)
 
 # Distributed Computing
 * [There is No Now - Problems with simultaneity in distributed systems] (http://queue.acm.org/detail.cfm?id=2745385)
