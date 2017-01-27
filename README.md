@@ -153,6 +153,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * [GoogleTechTalks](https://www.youtube.com/watch?v=rKnDgT73v8s)
   * http://virtualjug.com/
   * [The Top 10 Advanced Java Talks You Should See to Stay Relevant](http://blog.takipi.com/the-top-10-advanced-java-talks-you-should-see-to-stay-relevant/)
+  * [Conference Season Mic Drop: 13 Java Talks That You Shouldn’t Miss](http://blog.takipi.com/conference-season-mic-drop-13-java-talks-that-you-shouldnt-miss/)
   * https://yow.eventer.com/
 
 # Books
