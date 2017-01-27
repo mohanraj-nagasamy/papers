@@ -184,6 +184,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * [Java design patterns](http://java-design-patterns.com/patterns/)
   * [http://codingbat.com/] (http://codingbat.com/)
   * [Extending JDK 8 Collections](https://github.com/aol/cyclops/tree/master/cyclops-core)
+  * [Java-Collections-cheat-sheet.png (3508×2480)](https://zeroturnaround.com/wp-content/uploads/2016/04/Java-Collections-cheat-sheet.png)
 
 ## Scala
   * [scala-exercises] (http://scala-exercises.47deg.com/)
@@ -274,3 +275,6 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 * [Koding University] (http://learn.koding.com/)
 * [Khan Academy] (https://www.khanacademy.org/computing/computer-programming)
 * [44 New Cool Websites and Apps to Learn Something New] (https://entrepreneurs.maqtoob.com/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139#.fvm2fovty)
+
+
+
