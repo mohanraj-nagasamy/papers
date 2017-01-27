@@ -33,6 +33,22 @@
 * http://www.thedotpost.com/backend
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
+# Fallacies Of Distributed Computing
+* [Fallacies Of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+* [The Dynamo Paper](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (a classic)
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
+* [Distributed Systems Primer](https://blog.evanweaver.com/2009/05/04/distributed-systems-primer) (great list)
+* [A Distributed Systems Reading List](https://dancres.github.io/Pages/) (great list)
+* [@aphyr&#39;s Jepsen posts](https://aphyr.com/tags/jepsen)
+* [Distributed Systems Part course](http://dcg.ethz.ch/lectures/distsys/) – Distributed control algorithms (mutual exclusion, logical clocks), communication models (RPC, client-server, synchronous and asynchronous communication), abstract communication principles (broadcast, events, tuple spaces), communication middleware, security mechanisms, fault-tolerance (failure models, consensus, agreement), replication (primary copy, 2PC, 3PC, Paxos, quorum systems)
+* [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+* [A Note On Distributed Computing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628)
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [Vector Clocks](https://en.wikipedia.org/wiki/Vector_clock)
+* [Consensus Protocols: Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/) (great list + post)
+* [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer) (great list)
+* [Life beyond Distributed Transactions: an Apostate&#39;s Opinion](http://www.ics.uci.edu/~cs223/papers/cidr07p15.pdf)
+
 # Cluster
 * [On The Building Of A Postgres Cluster by Srihari Sriraman](https://hasgeek.tv/rootconf/2016/1207-of-the-building-of-a-postgres-cluster)
 
