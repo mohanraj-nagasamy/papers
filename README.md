@@ -158,6 +158,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 
 # Books
 * [Java Books in 2015] (https://blogs.oracle.com/java/entry/java_books_in_2015)
+* [Google - Site Reliability Engineering](https://landing.google.com/sre/)
 
 # Devops
 * [devops-best-practices-canary-deployments](http://www.ca.com/us/collateral/recorded-webcasts/na/devops-best-practices-canary-deployments.aspx)
