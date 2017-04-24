@@ -223,6 +223,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 ## Database DB
 * [Graph Databases for Beginners](https://neo4j.com/blog/why-graph-data-relationships-matter/)
 * [PostgreSQL's explain analyze made readable](https://explain.depesz.com/s/zJiT)
+* [Lookup Tables: Fine-Grained Partitioning for Distributed Databases] (http://www.evanjones.ca/lookup_tables.pdf)
 
 ## SQL
   * [SQL, the Underestimated Big Data Technology - Lukas Eder](https://vimeo.com/105758312)
