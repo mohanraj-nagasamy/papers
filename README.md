@@ -56,6 +56,7 @@
 * http://www.javaperformancetuning.com/
 * https://github.com/peter-lawrey/Performance-Examples/
 * [Brendan D. Gregg](http://www.brendangregg.com/FrequencyTrails/modes.html)
+* [Nitsan Wakart - java flame graph] (http://psy-lob-saw.blogspot.com/)
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [JAVA PROFILING FROM THE GROUND UP!](http://virtualjug.com/java-profiling-from-the-ground-up/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
