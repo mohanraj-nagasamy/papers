@@ -56,7 +56,7 @@
 * http://www.javaperformancetuning.com/
 * https://github.com/peter-lawrey/Performance-Examples/
 * [Brendan D. Gregg](http://www.brendangregg.com/FrequencyTrails/modes.html)
-* [Nitsan Wakart - java flame graph] (http://psy-lob-saw.blogspot.com/)
+* [Nitsan Wakart - java flame graph](http://psy-lob-saw.blogspot.com/)
 * [Blog about Perf ex:  Is My Profiler Telling The Truth?](https://blog.codecentric.de/en/category/performance-en/)
 * [JAVA PROFILING FROM THE GROUND UP!](http://virtualjug.com/java-profiling-from-the-ground-up/)
 * [Nanotrusting the Nanotime] (http://shipilev.net/blog/2014/nanotrusting-nanotime/)
@@ -68,7 +68,8 @@
 * https://www.azul.com/resources/presentations/
 * [Understanding HotSpot JVM Performance with JITWatch](http://www.infoq.com/presentations/jitwatch)
 * [The dark Art of Performance Tuning, from Newts to Newton](https://vimeo.com/151759061)
-* 
+* [Performance Methodology - video](https://www.youtube.com/watch?v=Zw_z7pjis7k)
+* [Performance Methodology - pdf](https://shipilev.net/talks/devoxx-Nov2012-perfMethodology.pdf)
 
 # Profile
 * [All The Small Things - JVM Profiling Lessons From The Trenches](http://blog.couchbase.com/all-the-small-things---jvm-profiling-lessons-from-the-trenches)
