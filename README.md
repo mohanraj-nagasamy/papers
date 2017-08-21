@@ -181,6 +181,13 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * http://codingdojo.org/cgi-bin/index.pl?KataCatalogue/
   * https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.rucojigwg
   * cyber-dojo.org
+
+## Coding practice sites
+  * codefights.com
+  * projecteuler.net
+  * codingdojo.com
+  * LeetCode.com
+  * http://www.careercup.com/page?pid=sde-2-interview-questions
   
 ## Java
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
