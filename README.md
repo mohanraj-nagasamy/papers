@@ -188,6 +188,9 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
   * codingdojo.com
   * LeetCode.com
   * http://www.careercup.com/page?pid=sde-2-interview-questions
+  * codility.com
+  * https://www.codewars.com/
+  * https://www.programcreek.com
   
 ## Java
   * [http://introcs.cs.princeton.edu/java/home/] (http://introcs.cs.princeton.edu/java/home/)
