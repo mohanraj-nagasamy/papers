@@ -139,6 +139,7 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 * https://www.lynda.com
 * https://www.pluralsight.com/
 * https://www.safaribooksonline.com/
+* https://javaspecialists.teachable.com
 
 # Conference
 * [JavaOne](https://www.oracle.com/javaone/index.html)
