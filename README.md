@@ -296,5 +296,9 @@ abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every
 * [Khan Academy] (https://www.khanacademy.org/computing/computer-programming)
 * [44 New Cool Websites and Apps to Learn Something New] (https://entrepreneurs.maqtoob.com/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139#.fvm2fovty)
 
+### Code camp
 
+* http://jumpstartlab.com
+* https://turing.io
+* https://continue.utah.edu/proed/academy/certificate/web-coding-bootcamp
 
