@@ -114,6 +114,7 @@
 # Cloud Design Patterns
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications - Microsoft] (https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * http://www.cloudcomputingpatterns.org/
+* [Patterns of Service-Oriented Architecture] (https://multithreaded.stitchfix.com/blog/2017/05/09/patterns-of-service-oriented-architecture/)
 
 # Locks & Logs
 * [Logs and real-time stream processing] (https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
