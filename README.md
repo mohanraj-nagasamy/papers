@@ -47,7 +47,7 @@
 * [Vector Clocks](https://en.wikipedia.org/wiki/Vector_clock)
 * [Consensus Protocols: Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/) (great list + post)
 * [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer) (great list)
-* [Life beyond Distributed Transactions: an Apostate&#39;s Opinion](http://www.ics.uci.edu/~cs223/papers/cidr07p15.pdf)
+* [Life beyond Distributed Transactions: an Apostate&#39;s Opinion](https://queue.acm.org/detail.cfm?id=3025012)
 
 # Cluster
 * [On The Building Of A Postgres Cluster by Srihari Sriraman](https://hasgeek.tv/rootconf/2016/1207-of-the-building-of-a-postgres-cluster)
