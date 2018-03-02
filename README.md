@@ -116,6 +116,7 @@
 * http://www.cloudcomputingpatterns.org/
 * [Patterns of Service-Oriented Architecture](https://multithreaded.stitchfix.com/blog/2017/05/09/patterns-of-service-oriented-architecture/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
+* [Google Cloud Platform Solutions](https://cloud.google.com/solutions/)
 
 # Locks & Logs
 * [Logs and real-time stream processing](https://www.oreilly.com/ideas/i-heart-logs-realtime-stream-processing)
