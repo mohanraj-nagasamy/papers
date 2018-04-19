@@ -13,6 +13,7 @@
   * [Devcast](https://www.devcasts.io)
   * http://devfreecasts.org/
   * http://www.purelyfunctional.tv/
+  * https://www.marcobehler.com
 
 # Papers
   * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
@@ -151,6 +152,7 @@
   * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
   * [qconsf2015](http://www.infoq.com/conferences/qconsf2015)
   * [GOTO conf]()
+  * https://kotlinconf.com
 
   ## Videos
     * https://vimeo.com/javazone/
@@ -165,6 +167,7 @@
     * [The Top 10 Advanced Java Talks You Should See to Stay Relevant](http://blog.takipi.com/the-top-10-advanced-java-talks-you-should-see-to-stay-relevant/)
     * [Conference Season Mic Drop: 13 Java Talks That You Shouldn’t Miss](http://blog.takipi.com/conference-season-mic-drop-13-java-talks-that-you-shouldnt-miss/)
     * https://yow.eventer.com/
+    * [microXchg](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg/videos)
 
 
 # APIs
