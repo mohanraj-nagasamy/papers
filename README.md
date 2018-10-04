@@ -155,19 +155,19 @@
   * https://kotlinconf.com
 
   ## Videos
-    * https://vimeo.com/javazone/
-    * http://www.nodejstutorial.co.in/search/label/Java
-    * [NewCircle](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
-    * https://www.parleys.com/
-    * [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
-    * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
-    * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
-    * [GoogleTechTalks](https://www.youtube.com/watch?v=rKnDgT73v8s)
-    * http://virtualjug.com/
-    * [The Top 10 Advanced Java Talks You Should See to Stay Relevant](http://blog.takipi.com/the-top-10-advanced-java-talks-you-should-see-to-stay-relevant/)
-    * [Conference Season Mic Drop: 13 Java Talks That You Shouldn’t Miss](http://blog.takipi.com/conference-season-mic-drop-13-java-talks-that-you-shouldnt-miss/)
-    * https://yow.eventer.com/
-    * [microXchg](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg/videos)
+  * https://vimeo.com/javazone/
+  * http://www.nodejstutorial.co.in/search/label/Java
+  * [NewCircle](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
+  * https://www.parleys.com/
+  * [FunctionalTV](https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw)
+  * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
+  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+  * [GoogleTechTalks](https://www.youtube.com/watch?v=rKnDgT73v8s)
+  * http://virtualjug.com/
+  * [The Top 10 Advanced Java Talks You Should See to Stay Relevant](http://blog.takipi.com/the-top-10-advanced-java-talks-you-should-see-to-stay-relevant/)
+  * [Conference Season Mic Drop: 13 Java Talks That You Shouldn’t Miss](http://blog.takipi.com/conference-season-mic-drop-13-java-talks-that-you-shouldnt-miss/)
+  * https://yow.eventer.com/
+  * [microXchg](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg/videos)
 
 
 # APIs
@@ -280,6 +280,10 @@
 # Tools
   * [List of resources on monitoring and scalability](http://www.hello-startup.net/resources/)
 
+## Diagraming tools
+ * https://mermaidjs.github.io/
+ * https://mermaidjs.github.io
+ 
 ## Performace load gen tool
  * JMeter
  * Gatling
