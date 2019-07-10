@@ -14,6 +14,7 @@
   * http://devfreecasts.org/
   * http://www.purelyfunctional.tv/
   * https://www.marcobehler.com
+  * https://sysadmincasts.com/
 
 # Papers
   * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
@@ -131,18 +132,35 @@
   * [Jay Kreps - The Log: What every software engineer should know about real-time data's unifying
   abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
+# Event Storming
+* https://www.eventstorming.com/
+
 # Mooc
   * https://www.edx.org/
   * https://courses.edx.org/dashboard/
   * https://www.coursera.org/
   * https://www.udacity.com/
   * http://theopenacademy.com/
+  * https://www.udemy.com/topic/togaf/
 
 # online courses
-  * https://www.lynda.com
+  * [Lynda.com / LinkedIn Learning](https://www.lynda.com)
   * https://www.pluralsight.com/
-  * https://www.safaribooksonline.com/
+  * [Safari](https://www.safaribooksonline.com/)
   * https://javaspecialists.teachable.com
+  * A Cloud Guru
+  * CBT Nuggets
+  * Cloud Academy
+  * Coursera
+  * DataCamp
+  * HackerRank
+  * ITProTV
+  * Linux Academy
+  * MS Visual
+  * Skillsoft
+  * Treehouse
+  * Udacity
+  * Udemy
 
 # Conference
   * [JavaOne](https://www.oracle.com/javaone/index.html)
@@ -168,6 +186,8 @@
   * [Conference Season Mic Drop: 13 Java Talks That You Shouldn’t Miss](http://blog.takipi.com/conference-season-mic-drop-13-java-talks-that-you-shouldnt-miss/)
   * https://yow.eventer.com/
   * [microXchg](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg/videos)
+  * [Jee conf](https://www.youtube.com/channel/UCaGHGAZiSwb8if6yfBF4NLA/videos)
+  * [Codemotion](https://www.youtube.com/user/CodemotionWorld/videos?view=0&sort=p&flow=grid)
 
 
 # APIs
@@ -178,6 +198,7 @@
 # Books
   * [Java Books in 2015](https://blogs.oracle.com/java/entry/java_books_in_2015)
   * [Google - Site Reliability Engineering](https://landing.google.com/sre/)
+  * [Software Architecture in Practice](https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734)
 
 # Devops
   * [devops-best-practices-canary-deployments](http://www.ca.com/us/collateral/recorded-webcasts/na/devops-best-practices-canary-deployments.aspx)
@@ -283,12 +304,23 @@
 ## Diagraming tools
  * https://mermaidjs.github.io/
  * https://mermaidjs.github.io
- 
+
+## ADR - architecture decision record 
+* http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+* https://github.com/PrestaShop/ADR/blob/master/0002-mixed-use-of-composer-and-zip-modules.md
+
 ## Performace load gen tool
  * JMeter
  * Gatling
  * Modern load-testing (HTTP, WebSockets and more) ⚡️ Node.js-based https://artillery.io
  * Massive scale load tests with AWS Lambda and Artillery - https://github.com/hassy/artillery-dino
+
+## JAVA & JVM profiling 
+  * [TDA - Thread Dump Analyzer](https://github.com/irockel/tda)
+  * Google: Jitwatch tutorial
+  * https://github.com/AdoptOpenJDK/TDA/tree/master/tda
+  * https://www.azul.com/jhiccup/
+  
 
 
 ### Kids games
