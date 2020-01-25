@@ -1,3 +1,46 @@
+## Purpose Based Alignment Model
+* https://www.kbp.media/purpose-based-alignment-model/
+* Analysis for Product Owners: Determine the right things to deliver
+* https://learning.oreilly.com/videos/analysis-for-product/9780134394732/9780134394732-ATPO_01_00
+
+## DDD - Effective Aggregate Design
+* (Part I: Modeling a Single Aggregate)[https://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf]
+* (Part II Making Aggregates Work Together:)[https://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf]
+(Part III: Gaining Insight Through Discovery)[https://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_3.pdf]
+
+## modular-monolith-with-ddd
+* https://github.com/kgrzybek/modular-monolith-with-ddd
+
+## Refactoring to a Deeper Model
+* https://www.infoq.com/articles/refactoring-deeper-model/
+* https://www.youtube.com/watch?v=vO86vdkv0wM
+
+## What Is Domain-Driven Design?
+* https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/
+
+## Modeling Enterprise Architecture with TOGAF
+* https://learning.oreilly.com/library/view/modeling-enterprise-architecture/9780124199842/
+
+## Explore DDD
+* https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag
+
+## restful-api-guidelines
+* https://opensource.zalando.com/restful-api-guidelines/
+* https://jobs.zalando.com/tech/blog/developing-zalando-apis/
+
+## Pattern-Oriented Software Architecture
+	* Pattern-Oriented Software Architectures for Concurrent and Networked Software
+	* https://www.youtube.com/watch?v=TMJ9gfZvWg8&list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc&t=7s
+
+## https://www.coursera.org/learn/software-design-methods-tools/home/welcome
+
+
+## Metrics for software architects - Alexander von Zitzewitz (hello2morrow)
+* Metrics:
+	- ML: maintainability level - has to be high
+	- PC: propagation cost - has to be low
+	
+
 ## AWS
 * https://learning.oreilly.com/live-training/courses/aws-certified-solutions-architect-associate-crash-course/0636920292371/
 * https://learning.oreilly.com/videos/aws-certified-solutions/9780135229415

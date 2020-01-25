@@ -1,3 +1,6 @@
+# Magazine
+  * Java Magazine
+  
 # Podcast
   * [Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)](https://sysadmincasts.com)
   * http://build-podcast.com/
@@ -33,6 +36,8 @@
   * https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html
   * http://www.thedotpost.com/backend
   * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+  * https://www.infoq.com/news/2019/06/patterns-distributed-systems
+  * [DDD and Messaging Architectures](http://verraes.net/2019/05/ddd-msg-arch/)
 
 # Fallacies Of Distributed Computing
   * [Fallacies Of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
