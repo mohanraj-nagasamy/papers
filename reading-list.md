@@ -1,3 +1,6 @@
+
+## 
+
 ## Purpose Based Alignment Model
 * https://www.kbp.media/purpose-based-alignment-model/
 * Analysis for Product Owners: Determine the right things to deliver
@@ -20,6 +23,7 @@
 
 ## Modeling Enterprise Architecture with TOGAF
 * https://learning.oreilly.com/library/view/modeling-enterprise-architecture/9780124199842/
+* (Enterprise Security Architecture)[https://sabsa.org/]
 
 ## Explore DDD
 * https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag
