@@ -1,5 +1,78 @@
+Semantic Software Design
+slide:ology
+Becoming a Better Tech Leader - By Camille Fournier
+Building Event-Driven Microservices
 
-## 
+
+# 10 BOOKS BY LEADING SOFTWARE ARCHITECT
+https://apiumhub.com/tech-blog-barcelona/books-software-architects/
+
+## Wardley maps - Topographical intelligence in business
+* https://medium.com/wardleymaps
+* https://learnwardleymapping.com/home/purpose/
+* https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+* https://www.slideshare.net/Kim_B/wardley-mapping-and-using-cynefin-to-navigate-uncertainty
+* https://www.infoq.com/wardley-mapping/
+
+
+## Nick Tune’s Strategic Technology Blog - Covering all aspects of Sociotechnical Architecture
+* https://medium.com/nick-tune-tech-strategy-blog
+
+## Untangling Microservices, or Balancing Complexity in Distributed Systems
+* https://vladikk.com/2020/04/09/untangling-microservices/
+
+## Distributed Data Patterns for Microservices - RedisConf 2020 Takeaway
+* https://microservices.matrixlms.com/learner_modules/list/294072
+
+## Decomposing the Monolith with Event Storming
+* https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61
+
+## Embrace the Chaos … Engineering
+* https://medium.com/capital-one-tech/embrace-the-chaos-engineering-203fd6fc6ff7
+
+
+## William Braxton Irvine, A Guide to the Good Life
+* https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life
+* https://hoanhan101.github.io/2020/04/14/unlimited-memory
+
+
+## Shift-Right Testing: The Emergence of TestOps
+* https://devops.com/shift-right-testing-the-emergence-of-testops/
+
+
+## Is Your Agile Transformation Just ‘Agility Theatre’? 
+* https://codemanship.wordpress.com/2020/04/18/is-your-agile-transformation-just-agility-theatre/
+
+## Automate, Automate, Autonomy!
+* https://codemanship.wordpress.com/2020/05/02/automate-automate-autonomy/
+
+## OC Tanner
+
+```
+“It is my hope that you may never find another place that will treat you with more respect and give you more dignity than we would give you. With you goes our reputation. If you do well, if you have a sense of responsibility, if you want to do your share, then we have a good chance to win. So give us your best!” - Obert C. Tanner
+
+```
+
+
+## Pair Programming
+* https://martinfowler.com/articles/on-pair-programming.html
+```
+Finally, the most given reason for pair rotations is to avoid knowledge silos, increase collective code ownership, and get some more code review on-the-go. Pairing itself is already helping with those things, but rotations can further increase the average number of eyes on each line of code that goes to production.
+```
+
+```
+With Continuous Integration (and Delivery), we want to reduce risk by delivering small chunks of changes frequently. In its original definition, this means practicing trunk-based development. With trunk-based development, delayed code reviews are even less effective, because the code changes go into the master branch immediately anyway. So pair programming and continuous integration are two practices that go hand in hand.
+```
+
+* Mindmap retrospective
+* https://llewellynfalco.blogspot.com/2017/08/mindmap-retrospective.html
+* https://services.google.com/fh/files/misc/state-of-devops-2017.pdf
+
+
+## Full cycle developers
+* https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
+* http://web.devopstopologies.com/
+
 
 ## Purpose Based Alignment Model
 * https://www.kbp.media/purpose-based-alignment-model/
@@ -172,6 +245,11 @@ https://learning.oreilly.com/live-training/courses/microservice-decomposition-pa
 * https://www.goodreads.com/book/show/85019.Applying_UML_and_Patterns
 * https://www.goodreads.com/book/show/179204.Object_Design
 * http://www.wirfs-brock.com/PDFs/A_Brief-Tour-of-RDD.pdf
+* http://www.wirfs-brock.com/DesignBooks.html
+* http://www.wirfs-brock.com/developing_comm_arch.html
+* https://www.viewpoints-and-perspectives.info/home/resources/
+* https://hackernoon.com/first-do-no-harm-30-principles-that-helped-me-avoid-fly-by-architecture-reviews-e8952ac632a
+
 
 This is the list of 9 GRASP patterns (sometimes called principles but please, do not focus on naming here):
 
