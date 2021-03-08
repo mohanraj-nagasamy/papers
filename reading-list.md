@@ -1,8 +1,48 @@
+
 Semantic Software Design
 slide:ology
 Becoming a Better Tech Leader - By Camille Fournier
 Building Event-Driven Microservices
 
+# https://basecamp.com/remote-resources
+* Clear and Concise: Become a better business writer - book
+
+# Making positive change by design
+https://medium.com/disruptive-design
+
+
+# Pragmatic Thinking & Learning
+* https://reflectoring.io/book-review-pragmatic-thinking/
+
+# jChampions - Conference 2021
+https://jchampionsconf.com/index.html
+* Do you use the Optional class as it should be?
+* GraphQL Distilled
+* The Definitive Guide to Working with Exceptions in Java
+
+# Kafka 
+* [Everything you wanted to know about Kafka Monitoring](https://assets.ctfassets.net/tnuaj0t7r912/7GWwoBsRup2vXJEfoJeSJA/aeb39fa3c81d2dd561e800728f428079/Guide_KafkaMonitoring.pdf)
+
+# Domain-Driven Design
+* https://github.com/ddd-crew/welcome-to-ddd
+* https://domainstorytelling.org/
+* https://leanpub.com/domainstorytelling
+* [Strategic DDD Architecture Building Blocks](https://github.com/ddd-crew/strategic-architecture-building-blocks/blob/51b1c64fcf54c4641b51132cd497ea50bec7de3e/README.md)
+
+# Breaking out of legacy, nine lessons for business leaders
+* https://www.thoughtworks.com/insights/blog/breaking-out-of-legacy-nine-lessons-for-business-leaders
+* https://www.thoughtworks.com/insights/blog/breaking-out-of-legacy-nine-lessons-for-business-leaders-part-2
+* https://www.thoughtworks.com/insights/blog/breaking-out-of-legacy-nine-lessons-for-business-leaders-part-3
+
+# GraphQL 
+https://www.infoq.com/podcasts/netflix-graphql-adoption-performance
+* education was a big aspect. 
+* schema-driven development.
+* So it is based on the federation spec that Apollo came out with. It is not exactly Apollo gateway, and we have a few reasons we chose to go that route, but they are interoperable in that they both implement the same federation spec and we collaborate heavily with Apollo on that as well to make sure we're compliant and we're following the same path we don't deviate. 
+* we do have the DGS framework, we call it - the Domain Graph Service framework that is built on top of GraphQL Java,
+* Spring Boot initializer and write a simple "hello world" data fetcher
+* a paved path
+* Developer Velocity
 
 # 10 BOOKS BY LEADING SOFTWARE ARCHITECT
 https://apiumhub.com/tech-blog-barcelona/books-software-architects/
